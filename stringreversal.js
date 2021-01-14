@@ -1,5 +1,5 @@
 
-//thought processes on how to reverse a string...
+//rubber duckie string reversal
 
 //convert string to an array
 
